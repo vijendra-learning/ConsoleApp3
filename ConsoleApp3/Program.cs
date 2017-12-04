@@ -12,5 +12,9 @@ namespace ConsoleApp3
         {
             Console.WriteLine("Hello");
         }
+        public void SayHi()
+        {
+            Console.WriteLine("Hi");
+        }
     }
 }
