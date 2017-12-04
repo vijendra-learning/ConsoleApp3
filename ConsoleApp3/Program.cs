@@ -11,6 +11,7 @@ namespace ConsoleApp3
         static void Main(string[] args)
         {
             Console.WriteLine("Hello123");
+            Console.ReadLine();
         }
         public void SayHi()
         {
@@ -21,5 +22,6 @@ namespace ConsoleApp3
         {
             Console.WriteLine("Welcome");
         }
+
     }
 }
