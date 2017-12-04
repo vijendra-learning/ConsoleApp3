@@ -12,5 +12,10 @@ namespace ConsoleApp3
         {
             Console.WriteLine("Hello");
         }
+
+        public void SayWelcome()
+        {
+            Console.WriteLine("Welcome");
+        }
     }
 }
