@@ -21,5 +21,9 @@ namespace ConsoleApp3
         {
             Console.WriteLine("Welcome");
         }
+        public void Demo()
+        {
+
+        }
     }
 }
