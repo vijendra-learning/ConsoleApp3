@@ -10,7 +10,22 @@ namespace ConsoleApp3
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello");
+            Console.WriteLine("Hello123");
+            Console.ReadLine();
         }
+        public void SayHi()
+        {
+            Console.WriteLine("Hi");
+        }
+
+        public void SayWelcome()
+        {
+            Console.WriteLine("Welcome");
+        }
+        public void TestDemo()
+        {
+            Console.WriteLine("Demo");
+        }
+
     }
 }
